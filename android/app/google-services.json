@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "310375535389",
+    "project_id": "rifa-digital-6ae8d",
+    "storage_bucket": "rifa-digital-6ae8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310375535389:android:9414a793d4698a578387f4",
+        "android_client_info": {
+          "package_name": "com.example.firstly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310375535389-a7kcjb4g6aiemd9eeolr4c52rhkvic9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firstly",
+            "certificate_hash": "6970ba6740d0d842d401d41864695625e2f6425a"
+          }
+        },
+        {
+          "client_id": "310375535389-d5qau8cjlhl7diul0537tukfu7pba7rf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa0vsVEJWIV60cWoQPkSp16LDeGLz8gEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310375535389-d5qau8cjlhl7diul0537tukfu7pba7rf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310375535389-p5jn6hnsnj132kvo8h6u1cjausptb8me.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firstly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

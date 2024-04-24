@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDkH7PqbXCNLTXJPk6peVs8bLy4UuyA2aM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310375535389</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firstly.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>rifa-digital-6ae8d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rifa-digital-6ae8d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310375535389:ios:3729177e35518ba48387f4</string>
+</dict>
+</plist>
